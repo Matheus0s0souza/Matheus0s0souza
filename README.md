@@ -1,3 +1,3 @@
 ## Oiii eu sou o Matheus Silva Souza, entusiasta em computação e ciencia!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus0s0souza)](https://github.com/anuraghazra/github-readme-stats)
