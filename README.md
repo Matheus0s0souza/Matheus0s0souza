@@ -50,7 +50,7 @@
     </td>
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="VsCode" />
-      <br>Androi Studio
+      <br>AndroidS
     </td>
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="VsCode" />
