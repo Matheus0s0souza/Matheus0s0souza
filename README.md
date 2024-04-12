@@ -48,6 +48,14 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       <br>VsCode
     </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="VsCode" />
+      <br>Androi Studio
+    </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="VsCode" />
+      <br>Azure
+    </td>
     </table>
 <br><br>
 </div>
