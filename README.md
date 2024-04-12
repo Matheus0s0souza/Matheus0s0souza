@@ -40,6 +40,10 @@
         <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
       <br>PHP
     </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="40" height="40" />
+      <br>Java
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       <br>VsCode
