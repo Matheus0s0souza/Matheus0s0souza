@@ -48,7 +48,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/matheussz.souza) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva-souza)
-[![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=wm#all?compose=CllgCJftLxBbdZxQNrJKqLRXxGJflbLDptVDjCbWwlVznzBqsHSfHkfwZsvbgLkKGLgKvpNftWL)
+[![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)
 
 
 </div>
