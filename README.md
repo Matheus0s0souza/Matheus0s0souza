@@ -56,6 +56,10 @@
         <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="VsCode" />
       <br>Azure
     </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" alt="VsCode" />
+      <br>Arduino
+    </td>
     </table>
 <br><br>
 </div>
