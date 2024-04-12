@@ -1,6 +1,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=640787&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Entusiasta+em+computação+e+ciência...;+Técnico+em+informática+para+internet..." />
 </h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus0s0souza&hide=prs,issues,contribs&show_icons=true&theme=midnight-purple)
