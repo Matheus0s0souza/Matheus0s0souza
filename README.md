@@ -1,7 +1,7 @@
 <!-- **************************************************************** APRESENTAÇÃO **************************************************************** -->
 <p align="center">
     <a href="http://jrohit.com.np" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=Matheus0s0souza&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="95%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=Matheus0s0souza&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="100%" height="0%">
     </a>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=640787&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Entusiasta+em+computação+e+ciência...;+Técnico+em+informática+para+internet..." />
