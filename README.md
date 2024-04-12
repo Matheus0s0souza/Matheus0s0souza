@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=640787&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Entusiasta+em+computação+e+ciência...;+Computer+science+study..." />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=640787&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Entusiasta+em+computação+e+ciência...;+Técnico+em+informática+para+internet..." />
 </h1>
 
 
