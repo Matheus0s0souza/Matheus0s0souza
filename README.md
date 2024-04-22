@@ -67,7 +67,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus0s0souza&hide=prs,issues,contribs&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus0s0souza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center">
 
